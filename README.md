@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adeulian
+- 👋 Hi, I’m @adrian
 - 👀 I’m interested in learning more .net full stack development.
 - 🌱 I’m currently learning c# and angular.
 - 📫 How to reach me at my email nairodie@protonmail.com
