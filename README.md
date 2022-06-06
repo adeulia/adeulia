@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adrian
+- 👋 Hi, I’m @adrian, currentely a student at WGU learning software development.
 - 👀 I’m interested in learning more .net full stack development.
 - 🌱 I’m currently learning c# and angular.
 - 📫 How to reach me my email nairodie@protonmail.com
